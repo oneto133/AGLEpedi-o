@@ -7,8 +7,9 @@ Durante o desenvolvimento de soluções para otimizar a gestão de estoque na [A
 * **Rastreabilidade em tempo real:** A capacidade de acompanhar a localização e o status de cada item em estoque, desde a entrada até a saída, é fundamental para evitar perdas e otimizar a reposição.
 * **Integração com o sistema *[Piloto](https://performancei.com.br/):*** A sincronização entre o sistema de gestão de estoque e o sistema Piloto é crucial para garantir que o estoque esteja sempre atualizado e evitar rupturas.
 * **Geração de relatórios personalizados:** A capacidade de gerar relatórios detalhados sobre o desempenho do estoque, como giro de estoque, nível de serviço e obsolescência, é essencial para a tomada de decisões estratégicas.
-* **Alertas automáticos:** A implementação de um sistema de alertas para notificar sobre níveis de estoque baixos, produtos próximos à data de validade e outras situações críticas é fundamental para evitar problemas operacionais.
+* **Alertas automáticos:** A implementação de um sistema de alertas para notificar sobre níveis de estoque baixos, endereços disponíveis e outras situações críticas é fundamental para evitar problemas operacionais.
 * **Equipamentos**: A necessidade de equipamentos como coletores de dados para realizar o inventário tem se mostrado fundamental.
+* **Inteligência Artificial:** Explorar a possibilidade de utilizar soluções de inteligência artificial para otimizar a previsão de demand e a gestão de reposição.
 
 ## Impacto dos requisitos:
 
