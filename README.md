@@ -26,5 +26,3 @@ De primeiro momento, para se minimizar a dificuldade de localização precisa de
 * Dificuldade de dados atualizados em tempo real, já que a rotatividade de produtos do estoque é altíssima, exigindo um sistema que acompanhe as mudanças em tempo real, garantindo  precisão das informações.
 * Acessibilidade da planilha, os principais dispositivos usados nos processos de separação e inventário de estoque são feitas através de tablets, ao acessar a planilha disponibilizada de forma online algumas funcionalidades se tornam incompatíveis e não muito funcionais para o usuário, como atraso nas repostas ao requisitar dados a base, mesmo que interna, além de não ser muito usual e intuitívo, o que prejudica a adaptação e ergonomia cognitíva do usuário. 
 
-
-## O que temos em mente
