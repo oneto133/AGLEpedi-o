@@ -4,19 +4,19 @@ Durante o desenvolvimento de soluções para otimizar a gestão de estoque na [A
 
 ### Requisitos:
 
-A iniciar pelos requisitos, temos alguns requisitos base para começarmos tendo uma noção de algumas necessidades da Expedição da [AGL Brasil](https://www.aglbrasil.com/) hoje.
+A iniciar pelos requisitos, temos uma base para começarmos tendo uma noção de algumas necessidades da Expedição da [AGL Brasil](https://www.aglbrasil.com/) hoje.
 
-* **Rastreabilidade em tempo real:** A capacidade de acompanhar a localização e o status de cada item em estoque, desde a entrada até a saída, é fundamental para evitar perdas e otimizar a reposição.
+* **Rastreabilidade em tempo real:** A capacidade de acompanhar a localização e o status de cada item em estoque, desde a entrada até a saída, se tornou fundamental para evitar perdas e otimizar a reposição.
   
 * **Integração com o sistema *[Piloto](https://performancei.com.br/):*** A sincronização entre o sistema de gestão de estoque e o sistema Piloto é crucial para garantir que o estoque esteja sempre atualizado e evitar rupturas.
   
-* **Geração de relatórios personalizados:** A capacidade de gerar relatórios detalhados sobre o desempenho do estoque, como giro de estoque, nível de serviço e obsolescência, é essencial para a tomada de decisões estratégicas.
+* **Geração de relatórios personalizados:** A capacidade de gerar relatórios detalhados sobre o desempenho do estoque, como giro de estoque, nível de serviço e obsolescência, tambem é um ponto essencial para a tomada de decisões estratégicas.
   
 * **Alertas automáticos:** A implementação de um sistema de alertas para notificar sobre níveis de estoque baixos, endereços disponíveis e outras situações críticas é fundamental para evitar problemas operacionais.
   
-* **Equipamentos**: A necessidade de equipamentos como coletores de dados para realizar o inventário tem se mostrado fundamental desde o recebimento até a separação, que é quando o produto passa a deixar de ser estoque e passa a estar em meio que uma situação flutuante.
+* **Equipamentos**: A necessidade de equipamentos como coletores de dados para realizar o inventário tem se mostrado fundamental desde o recebimento até a separação, que é quando o produto passa a deixar de ser estoque e passa a estar em, meio que uma situação flutuante.
   
-* **Inteligência Artificial:** Explorar a possibilidade de utilizar soluções de inteligência artificial para otimizar a previsão de demanda e a gestão de reposição realizando um balanço do que brevemente sairá o do que possivelmente ocupará aquele espaço, como consequência, otimizando custos de espaço de armazenamento, pois, cada produto em cada espaço no qual está alocado, querendo ou não é um custo para a empresa.
+* **Inteligência Artificial:** Explorar a possibilidade de utilizar soluções de inteligência artificial para otimizar a previsão de demanda e a gestão de reposição realizando um balanço do que brevemente sairá ou do que possivelmente ocupará aquele espaço, como consequência, otimizando custos de espaço de armazenamento, pois, cada produto em cada espaço no qual está alocado, querendo ou não é um custo para a empresa.
 
 ### Impacto dos requisitos:
 
@@ -32,7 +32,7 @@ A iniciar pelos requisitos, temos alguns requisitos base para começarmos tendo 
 
 **Faseamento:**
 
-Claro, o sistema que se é descrito nesse artigo não deve ser levado como uma exigência ou algo urgente que em um estalar de dedos deverá aparecer instantâneamente, a necessidade de se documentar algo como esse, surgiu ao percerber que ideias e funcionários engajados a AGL tem, porém eles estão acanhados, assim fica apenas como uma crítica que logo se desaparece e após não terá importância para ninguém mais, nem mesmo para o elaborador. Os requisitos aqui apresentados foram totalmente desenvolvidos por funcionários que buscam um melhor ambiente de trabalho e um certeza de que amanhã teremos algo melhor para todos. Sendo assim, o que se pretende com isso é implementar o sistema de forma gradual, iniciando pelos módulos mais críticos e expandindo para os demais à medida que os resultados forem sendo obtidos.
+Claro, o sistema que se é descrito nesse artigo não deve ser levado como uma exigência ou algo urgente que em um estalar de dedos deverá aparecer instantâneamente, a necessidade de se documentar algo como esse, surgiu ao percerber que ideias e funcionários engajados a AGL tem, porém eles estão acanhados, por assim dizer, desse moto fica apenas como uma crítica que logo se desaparece com o tempo e após não terá importância para ninguém mais, nem mesmo para o elaborador. Os requisitos aqui apresentados foram totalmente desenvolvidos por funcionários que buscam um melhor ambiente de trabalho e uma certeza de que amanhã teremos algo melhor para todos. Sendo assim, o que se pretende com isso é implementar o sistema de forma gradual, iniciando pelos módulos mais críticos e expandindo para os demais à medida que os resultados forem sendo obtidos.
 
 ## O que iniciamos?
 
